@@ -1,0 +1,9 @@
+~test
+clear
+~test
+runMain scalashop.HorizontalBoxBlurRunner
+runMain scalashop.ScalaShop
+runMain scalashop.HorizontalBoxBlurRunner
+runMain scalashop.ScalaShop
+submit cristianospsp@gmail.com OaTJx4RuVoiOnwhN
+runMain scalashop.ScalaShop

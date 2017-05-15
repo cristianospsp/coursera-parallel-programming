@@ -1,0 +1,5 @@
+~test
+runMain kmeans.KMeansRunner
+start
+runMain kmeans.fun.ScalaShop
+submit cristianospsp@gmail.com wZjskbfYd1b5FDXJ
